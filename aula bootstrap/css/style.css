@@ -1,0 +1,38 @@
+
+body{
+    font-family: 'Atma', cursive;
+    font-size: 30px;
+}
+
+.navbar{
+    background-color: #E3D87E;
+}
+
+.quem-somos{
+    background-color: #F71735;
+    color: white;
+}
+
+.margin{
+        padding-bottom: 50px;
+        padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #E3D87E;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.texto-principal{
+        font-family: 'Waiting for the Sunrise', cursive;
+}
+
+.paragrafo{
+    font-family: 'Atma', cursive;;
+    font-size: 20px;
+}
+
